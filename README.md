@@ -26,7 +26,6 @@ This project converts natural-language SQL questions into valid SQL statements u
 - `metrics.py` — runs many prompts and records success rates
 - `tests/` — unit & pipeline mock tests
 - `requirements.txt` — runtime deps
-- `requirements-dev.txt` — dev deps (black/flake8/pre-commit/pytest)
 - `.pre-commit-config.yaml` — formatting & lint hooks
 - `demo/` — screenshots
 - `logs/` — JSONL logs (created during runs)
